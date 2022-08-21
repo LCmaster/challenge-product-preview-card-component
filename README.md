@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-product-preview-card-using-flexbox-Kz_UYPWGtW
 - Live Site URL: https://regal-squirrel-ab086b.netlify.app/
 
 ## My process
